@@ -1,5 +1,8 @@
+/*
+ Copyright 2016, Wayne Parrott (wayne@wayneparrott.com)
+*/
 
-
+/* TODO: clean up code */
 body {
     background-color: black;  
     margin: 0px;
@@ -11,7 +14,7 @@ body {
   height: 500px;
 }
 
-.wrap {    
+.scene {    
   background-image: linear-gradient(to bottom, rgb(32,36,58), rgb(20,24,26));
   width: 100%;
   -webkit-transform: translateY(50%);
