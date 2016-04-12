@@ -1,5 +1,5 @@
 # lighthouse
-Simulate a lighthouse at night.  
+Simulate a lighthouse with rotating navigation light.  
   
 Uses CSS 3d transforms to rotate the lighthouse light beam. 
 Tested on Chrome & Firefox. Works best on Chrome.
