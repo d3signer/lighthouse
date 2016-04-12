@@ -1,6 +1,6 @@
 {
   "name": "Lighthouse",
   "tagline": "Simulate a lighthouse with lightbeam rotating 360 degree",
-  "body": "# lighthouse\r\nSimulate a lighthouse with rotating navigation light.  \r\n  \r\nUses CSS 3d transforms to rotate the lighthouse light beam.  The experience \r\nis much smoother than the animated gif below. Tested on Chrome & Firefox. Works best on Chrome.\r\n  \r\n[Click to view Lighthouse](lighthouse.html)\r\n\r\n\r\n\r\n",
+  "body": "# lighthouse\r\nSimulate a lighthouse with rotating navigation light.  \r\n  \r\nUses CSS 3d transforms to rotate the lighthouse light beam.  The experience \r\nis much smoother than the animated gif below. Tested on Chrome & Firefox. Works best on Chrome.\r\n  \r\n[Click to view Lighthouse](https://github.com/wayneparrott/lighthouse/blob/master/lighthouse.html)\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
